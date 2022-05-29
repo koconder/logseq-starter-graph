@@ -1,0 +1,45 @@
+👓Related:: [[Logseq]], [[Workflow]]
+
+-
+- System zone:
+	- **Naming:**
+		- `****Log` - different logs pages
+		- `**** MOC` - maps of content pages
+		- `@ project name` - projects pages
+	- **Metatags:**
+		- `type`
+			- `📔 note` [[Note template]]
+			- `🎯 Project` [[Project template]]
+			- [[Person template]]
+				- `📞 contact`
+				- `✍️ author`
+				- `🎤 artist`
+			- `🌌 moc` [[MOC template]]
+			- [[🍲 recipe]]
+		- `media`
+			- `📚 book`
+			- `🎬 video`
+			- `📰 article`
+			- `slides`
+			- `tweet`
+			- `podcast`
+		- `area`
+			- `🧑 Personal`
+			- `💼 Work`
+		- `status`
+			- `🔁 inbox`
+			- `🔀 someday`
+			- `⏭ next`
+			- `⏺ inprogress`
+			- `☑ done`
+		- `priority`
+			- `🟢 low`
+			- `🟡 normal`
+			- `🔴 high`
+		- `grow`
+			- `🌱seed`
+			- `📗 litnote`
+			- `🌳 evrgrn`
+- Content zone:
+	- **🌐 References:** - links to external resources.
+	- **👓 Related:** internal pages with related topics.

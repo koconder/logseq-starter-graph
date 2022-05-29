@@ -1,0 +1,2 @@
+- {{query (page-property type "🍲 recipe")}}
+-

@@ -1,0 +1,276 @@
+[{:block/name "...",
+  :block/created-at 1653815456129,
+  :block/updated-at 1653815456129}
+ {:block/name "./license",
+  :block/created-at 1653824954133,
+  :block/updated-at 1653824954133}
+ {:block/name "2022-05-29",
+  :block/created-at 1653816717717,
+  :block/updated-at 1653824943049}
+ {:block/name "@ javascript learning",
+  :block/created-at 1653815455402,
+  :block/updated-at 1653824760869}
+ {:block/name "a",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "b",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "c",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "card",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "contents",
+  :block/created-at 1653817153498,
+  :block/updated-at 1653817153498}
+ {:block/name "daily template",
+  :block/created-at 1653815455746,
+  :block/updated-at 1653824923372}
+ {:block/name "doing",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "done",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "favorites",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "in-progress",
+  :block/created-at 1653817153498,
+  :block/updated-at 1653817153498}
+ {:block/name "kanban",
+  :block/created-at 1653815455368,
+  :block/updated-at 1653815455368}
+ {:block/name "kanban template",
+  :block/created-at 1653815456449,
+  :block/updated-at 1653815456449}
+ {:block/name "later",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "lit note template",
+  :block/created-at 1653815456457,
+  :block/updated-at 1653824036259}
+ {:block/name "logseq",
+  :block/created-at 1653815455899,
+  :block/updated-at 1653824604448}
+ {:block/name "logseq queries",
+  :block/created-at 1653815455870,
+  :block/updated-at 1653815455870}
+ {:block/name "logseq template",
+  :block/created-at 1653824954131,
+  :block/updated-at 1653824954131}
+ {:block/name "logseq templates",
+  :block/created-at 1653815455988,
+  :block/updated-at 1653825873990}
+ {:block/name "moc",
+  :block/created-at 1653815456374,
+  :block/updated-at 1653815456374}
+ {:block/name "moc template",
+  :block/created-at 1653815456047,
+  :block/updated-at 1653815456047}
+ {:block/name "mom",
+  :block/created-at 1653816650096,
+  :block/updated-at 1653816668487}
+ {:block/name "my logseq pkm rules and workflow",
+  :block/created-at 1653817389160,
+  :block/updated-at 1653825808124}
+ {:block/name "note",
+  :block/created-at 1653815456399,
+  :block/updated-at 1653815456399}
+ {:block/name "note template",
+  :block/created-at 1653815456156,
+  :block/updated-at 1653815867914}
+ {:block/name "now",
+  :block/created-at 1653817153498,
+  :block/updated-at 1653817153498}
+ {:block/name "person template",
+  :block/created-at 1653815456454,
+  :block/updated-at 1653815456454}
+ {:block/name "podcast",
+  :block/created-at 1653815456128,
+  :block/updated-at 1653815456128}
+ {:block/name "project template",
+  :block/created-at 1653815456274,
+  :block/updated-at 1653816889782}
+ {:block/name "query examples",
+  :block/created-at 1653815456312,
+  :block/updated-at 1653815456312}
+ {:block/name "readme",
+  :block/created-at 1653824954134,
+  :block/updated-at 1653824954134}
+ {:block/name "recipe template",
+  :block/created-at 1653825873990,
+  :block/updated-at 1653825896057}
+ {:block/name "slides",
+  :block/created-at 1653815456127,
+  :block/updated-at 1653815456127}
+ {:block/name "template",
+  :block/created-at 1653815456334,
+  :block/updated-at 1653815456334}
+ {:block/name "todo",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "tweet",
+  :block/created-at 1653815456127,
+  :block/updated-at 1653815456127}
+ {:block/name "wait",
+  :block/created-at 1653817153498,
+  :block/updated-at 1653817153498}
+ {:block/name "waiting",
+  :block/created-at 1653817153497,
+  :block/updated-at 1653817153497}
+ {:block/name "workflow",
+  :block/created-at 1653817389162,
+  :block/updated-at 1653817389162}
+ {:block/name "———[ collections ]———",
+  :block/created-at 1653815456504,
+  :block/updated-at 1653815456504}
+ {:block/name "————[ goals ]————",
+  :block/created-at 1653815456531,
+  :block/updated-at 1653815456531}
+ {:block/name "————[ important ]——",
+  :block/created-at 1653815456555,
+  :block/updated-at 1653815456555}
+ {:block/name "————[ system ]————",
+  :block/created-at 1653815456577,
+  :block/updated-at 1653815456577}
+ {:block/name "⌚ agenda",
+  :block/created-at 1653815455719,
+  :block/updated-at 1653815455719}
+ {:block/name "⏺ inprogress",
+  :block/created-at 1653815455411,
+  :block/updated-at 1653815455411}
+ {:block/name "⚡ highlights",
+  :block/created-at 1653815799871,
+  :block/updated-at 1653815799871}
+ {:block/name "✅ todolog",
+  :block/created-at 1653815455723,
+  :block/updated-at 1653815455723}
+ {:block/name "✍️ author",
+  :block/created-at 1653815456618,
+  :block/updated-at 1653815456618}
+ {:block/name "✍️ citates",
+  :block/created-at 1653817271921,
+  :block/updated-at 1653817271921}
+ {:block/name "➖ separator",
+  :block/created-at 1653815455913,
+  :block/updated-at 1653815455913}
+ {:block/name "⭐ favorites",
+  :block/created-at 1653815456684,
+  :block/updated-at 1653815456684}
+ {:block/name "🌌 moc",
+  :block/created-at 1653815456046,
+  :block/updated-at 1653824690230}
+ {:block/name "🌞 morning routines",
+  :block/created-at 1653815455737,
+  :block/updated-at 1653815455737}
+ {:block/name "🌱seed",
+  :block/created-at 1653815456121,
+  :block/updated-at 1653815456121}
+ {:block/name "🌳 evrgrn",
+  :block/created-at 1653815456123,
+  :block/updated-at 1653815456123}
+ {:block/name "🌿 new",
+  :block/created-at 1653815455727,
+  :block/updated-at 1653815455727}
+ {:block/name "🍲 recipe",
+  :block/created-at 1653825737443,
+  :block/updated-at 1653825759116}
+ {:block/name "🎁 wishlist",
+  :block/created-at 1653815456877,
+  :block/updated-at 1653815456877}
+ {:block/name "🎉 relaxing",
+  :block/created-at 1653815455732,
+  :block/updated-at 1653815455732}
+ {:block/name "🎓 course",
+  :block/created-at 1653815456898,
+  :block/updated-at 1653815456898}
+ {:block/name "🎤 artist",
+  :block/created-at 1653815456919,
+  :block/updated-at 1653815456919}
+ {:block/name "🎬 video",
+  :block/created-at 1653815456126,
+  :block/updated-at 1653815456126}
+ {:block/name "🎬 watching",
+  :block/created-at 1653815455734,
+  :block/updated-at 1653815455734}
+ {:block/name "🎯 project",
+  :block/created-at 1653815455406,
+  :block/updated-at 1653815455406}
+ {:block/name "🎵 listening",
+  :block/created-at 1653815455733,
+  :block/updated-at 1653815455733}
+ {:block/name "👓 daily review",
+  :block/created-at 1653815455742,
+  :block/updated-at 1653815455742}
+ {:block/name "👨‍💻 fe (frontend)",
+  :block/created-at 1653815455409,
+  :block/updated-at 1653815455409}
+ {:block/name "👷‍♂️ doing",
+  :block/created-at 1653815455731,
+  :block/updated-at 1653815455731}
+ {:block/name "💡 ideas",
+  :block/created-at 1653815455728,
+  :block/updated-at 1653815455728}
+ {:block/name "💭 thinking",
+  :block/created-at 1653815455735,
+  :block/updated-at 1653815455735}
+ {:block/name "💼 work",
+  :block/created-at 1653815455408,
+  :block/updated-at 1653824671333}
+ {:block/name "📅 june",
+  :block/created-at 1653815931258,
+  :block/updated-at 1653815931258}
+ {:block/name "📆 2022",
+  :block/created-at 1653815457082,
+  :block/updated-at 1653815931258}
+ {:block/name "📆 calendar",
+  :block/created-at 1653815457083,
+  :block/updated-at 1653815457083}
+ {:block/name "📈 success",
+  :block/created-at 1653815455090,
+  :block/updated-at 1653816517117}
+ {:block/name "📉 fails",
+  :block/created-at 1653815455096,
+  :block/updated-at 1653816539523}
+ {:block/name "📔 note",
+  :block/created-at 1653815456124,
+  :block/updated-at 1653815456124}
+ {:block/name "📗 litnote",
+  :block/created-at 1653815456120,
+  :block/updated-at 1653815456120}
+ {:block/name "📚 book",
+  :block/created-at 1653815799851,
+  :block/updated-at 1653815799851}
+ {:block/name "📜 lists",
+  :block/created-at 1653815457242,
+  :block/updated-at 1653815950670}
+ {:block/name "📞 contact",
+  :block/created-at 1653815457271,
+  :block/updated-at 1653815457271}
+ {:block/name "📬 inbox",
+  :block/created-at 1653815455725,
+  :block/updated-at 1653815455725}
+ {:block/name "📰 article",
+  :block/created-at 1653815456125,
+  :block/updated-at 1653815456125}
+ {:block/name "🔴 high",
+  :block/created-at 1653815455307,
+  :block/updated-at 1653815455307}
+ {:block/name "🟡 normal",
+  :block/created-at 1653815455339,
+  :block/updated-at 1653815455339}
+ {:block/name "🟢 low",
+  :block/created-at 1653815455360,
+  :block/updated-at 1653815455360}
+ {:block/name "🤓 learn",
+  :block/created-at 1653815457316,
+  :block/updated-at 1653815457316}
+ {:block/name "🧑 personal",
+  :block/created-at 1653815456267,
+  :block/updated-at 1653815456267}
+ {:block/name "🧘‍♂️ habitslog",
+  :block/created-at 1653815455717, 
+  :block/updated-at 1653815455717}]
