@@ -1,0 +1,15 @@
+- Free open source PKM app
+-
+- **🌐 References:**
+	- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
+	- [Logseq forum](https://discuss.logseq.com/)
+	- [Logseq Roadmap | Trello](https://trello.com/b/8txSM12G/logseq-roadmap)
+	- [Logseq Discord](https://discord.com/channels/725182569297215569/725182570131751005)
+	- [Official docs](https://docs.logseq.com/#/page/Contents)
+	- [Logseq - Unofficial Documentation](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/Logseq%20-%20Unofficial%20Documentation)
+	- [[Logseq queries]]
+		- [Simple queries](https://logseq.github.io/page/changelog#/page/queries)
+		- [Advanced Queries](https://docs.logseq.com/#/page/advanced%20queries)
+		- [Queries/Advanced Queries/Tutorial](https://mschmidtkorth.github.io/logseq-msk-docs/#/page/Queries%2FAdvanced%20Queries%2FTutorial)
+		- [Syntax · weavejester/hiccup Wiki](https://github.com/weavejester/hiccup/wiki/Syntax)
+		- [LogSeq/Advanced Queries](https://bgrolleman.gitlab.io/logseq_publish_toolsontech/#/page/logseq%2Fadvanced%20queries)
