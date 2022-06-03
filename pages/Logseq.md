@@ -1,4 +1,4 @@
-- Free open source PMK app
+- Free open source PKM app
 -
 - **🌐 References:**
 	- [Logseq: A privacy-first, open-source knowledge base](https://logseq.com/)
